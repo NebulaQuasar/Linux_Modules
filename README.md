@@ -2,4 +2,4 @@
 Linux_Modules: Contains some basic Linux Kernel Modules
 
 # Jiffies
-Module tto measure the time a module wass in the kernel using jiffies counter
+Module to measure the time a module was in the kernel using jiffies counter.
